@@ -13,14 +13,14 @@ body{
 .content{
    border: 2px solid #f1f1f1;
    border-bottom: 2px solid;
-    width: 400px;
+    width: 350px;
     height: 50vh;
     align-items: center;
     justify-content: center;
     position: absolute;
     border-radius: 10px;
     top: 30%;
-   left: 8%;
+   left: 5%;
    text-align: center;
    background: linear-gradient( black , #f1f1f1);
    padding: 15px;
